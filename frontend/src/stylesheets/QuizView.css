@@ -1,0 +1,14 @@
+.quiz-play-holder {
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.correct {
+    color: green;
+}
+
+.wrong {
+    color: red;
+}
